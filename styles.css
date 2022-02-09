@@ -1,5 +1,5 @@
 #appBg {
-    height: 25rem;
+    height: 26rem;
     width: 19rem;
     background-color: aquamarine;
     border-radius: 0.5rem;
@@ -32,7 +32,7 @@
     cursor: pointer;
     font-family: "Supermercado One", sans-serif;
     font-weight: bold;
-    font-size: 1.8rem;
+    font-size: 2rem;
     color:white;
     padding: 0.8rem;
     margin: 0.15rem;
@@ -43,9 +43,7 @@
 
 #appBg .orange {
     background-color: orange;
-    
 }
 #appBg .gray {
-    background-color: gray;
-    
+    background-color: gray;   
 }
